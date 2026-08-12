@@ -1,5 +1,5 @@
 {
-  "version": "1.39",
+  "version": "1.40",
   "disabled": false,
   "expiresAt": "2026-08-19T23:59:59+02:00",
   "title": "IL METODO OPENDOMUS",
@@ -129,7 +129,7 @@
   },
   "qualitaImmobile": {
     "enabled": true,
-    "sectionNumber": "2.",
+    "sectionNumber": "",
     "sectionTitle": "LA QUALITÀ DELL'IMMOBILE",
     "sourceDocument": "docs/descrizione-immobile.pdf",
     "generatedAt": "2026-08-12T12:32:03.481Z",
@@ -351,7 +351,7 @@
   },
   "caratteristichePrincipali": {
     "enabled": true,
-    "sectionNumber": "",
+    "sectionNumber": "2.",
     "sectionTitle": "CARATTERISTICHE PRINCIPALI",
     "features": [
       {
@@ -404,7 +404,7 @@
   "planimetrieCatasto": {
     "enabled": true,
     "sectionNumber": "3.",
-    "sectionTitle": "PLANIMETRIE E DATI CATASTALI",
+    "sectionTitle": "GLI SPAZI",
     "items": [
       {
         "label": "Planimetrie quotate",
