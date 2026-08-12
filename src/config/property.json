@@ -128,11 +128,11 @@
     "sectionNumber": "2.",
     "sectionTitle": "LA QUALITÀ DELL'IMMOBILE",
     "sourceDocument": "docs/descrizione-immobile.pdf",
-    "generatedAt": "2026-08-09T22:18:15.614Z",
+    "generatedAt": "2026-08-12T12:32:03.481Z",
     "voci": [
       {
         "label": "Anno costruzione",
-        "text": "Anni 70."
+        "text": "Immobile costruito nel 1996/1998. È presente l'agibilità."
       },
       {
         "label": "Ristrutturazioni",
@@ -140,7 +140,7 @@
       },
       {
         "label": "Serramenti",
-        "text": "Porta blindata all'ingresso. Infissi in legno con vetri doppi e tapparelle in plastica."
+        "text": "Porta blindata all'ingresso, infissi in legno con vetri doppi e tapparelle in alluminio. Segnalati inoltre infissi legno/alluminio."
       },
       {
         "label": "Tetto",
@@ -152,7 +152,7 @@
       },
       {
         "label": "Riscaldamento",
-        "text": "Impianto centralizzato con contabilizzatore e termovalvole."
+        "text": "Impianto autonomo con caldaia a gas metano, diviso per zone, con radiatori in ghisa."
       },
       {
         "label": "Climatizzazione",
@@ -160,15 +160,15 @@
       },
       {
         "label": "Materiali",
-        "text": "Pavimentazione in cotto. Struttura del fabbricato con finitura a intonaco esterno."
+        "text": "Pavimentazione in gres porcellanato e marmo. Struttura del fabbricato mista muratura/cemento armato."
       },
       {
         "label": "Impianti",
-        "text": "Impianto di allarme perimetrale, fibra ottica e parabola TV. L'immobile è allacciato alla fogna e dispone di certificazione energetica."
+        "text": "Presente parabola TV. L'immobile è dotato di allaccio in fogna; la certificazione energetica è da fare."
       },
       {
         "label": "Tutti i plus",
-        "text": "Zanzariere alle finestre. L'appartamento è dotato di balcone e box singolo, con ascensore in condominio e agibilità presente."
+        "text": "Grate, zanzariere e tende da sole motorizzate. L'appartamento dispone di ingresso indipendente e balcone, oltre ad autorimessa singola e posto auto scoperto."
       }
     ]
   },
