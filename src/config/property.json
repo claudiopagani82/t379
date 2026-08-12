@@ -203,72 +203,44 @@
     "enabled": true,
     "heading": "Dove siamo",
     "showAddress": true,
-    "address": "Via Carlo de Simoni, 19, Tradate",
-    "mapImage": "/images/dove-siamo-map-1786538087826.png",
-    "generatedAt": "2026-08-12T12:34:48.643Z",
-    "lat": 45.7140839,
-    "lng": 8.9059183,
+    "address": "Via Manzoni 4, Venegono Inferiore",
+    "mapImage": "/images/dove-siamo-map-1786538102540.png",
+    "generatedAt": "2026-08-12T12:35:03.455Z",
+    "lat": 45.7376531,
+    "lng": 8.9009539,
     "servizi": [
       {
         "markerNumber": 1,
         "category": "scuola",
-        "label": "Nurseries Carlo Saporiti",
+        "label": "La Casa Davanti Al Sole Soc.Coop.Sociale Arl",
         "distanceText": "0,2 km",
-        "durationText": "3 min"
+        "durationText": "4 min"
       },
       {
         "markerNumber": 2,
         "category": "scuola",
-        "label": "Closlieu - Il gioco del dipingere",
-        "distanceText": "0,2 km",
-        "durationText": "3 min"
+        "label": "Scuola Elementare \"A. Manzoni\"",
+        "distanceText": "0,3 km",
+        "durationText": "4 min"
       },
       {
         "markerNumber": 3,
         "category": "supermercato",
-        "label": "Drogheria Aimetti",
+        "label": "SIGMA",
         "distanceText": "0,2 km",
-        "durationText": "2 min"
+        "durationText": "3 min"
       },
       {
         "markerNumber": 4,
-        "category": "supermercato",
-        "label": "Antica Macelleria del Corso",
+        "category": "farmacia",
+        "label": "BENU Farmacia Venegono",
         "distanceText": "0,2 km",
         "durationText": "3 min"
       },
       {
         "markerNumber": 5,
-        "category": "farmacia",
-        "label": "Farmacia Pianori",
-        "distanceText": "0,2 km",
-        "durationText": "3 min"
-      },
-      {
-        "markerNumber": 6,
-        "category": "farmacia",
-        "label": "Farmacia Carrari di Carrari dr. Marco",
-        "distanceText": "0,6 km",
-        "durationText": "8 min"
-      },
-      {
-        "markerNumber": 7,
-        "category": "parcheggio",
-        "label": "Parcheggio",
-        "distanceText": "0,9 km",
-        "durationText": "12 min"
-      },
-      {
-        "markerNumber": 8,
-        "category": "parcheggio",
-        "label": "Parcheggio Ospedale di Tradate",
-        "distanceText": "1,3 km",
-        "durationText": "18 min"
-      },
-      {
-        "markerNumber": 9,
         "category": "stazione",
-        "label": "Tradate",
+        "label": "Venegono Inferiore",
         "distanceText": "0,5 km",
         "durationText": "7 min"
       }
