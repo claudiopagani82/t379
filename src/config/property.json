@@ -121,7 +121,11 @@
   "scopriLaCasa": {
     "enabled": true,
     "sectionNumber": "1.",
-    "sectionTitle": "DOVE SI TROVA"
+    "sectionTitle": "DOVE SI TROVA",
+    "intro": {
+      "enabled": true,
+      "text": ""
+    }
   },
   "qualitaImmobile": {
     "enabled": true,
@@ -427,7 +431,7 @@
       {
         "label": "Certificato energetico",
         "enabled": true,
-        "documentUrl": null
+        "documentUrl": "/images/ape-0-1786547506200.pdf"
       }
     ]
   },
