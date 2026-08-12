@@ -429,7 +429,7 @@
     "sectionTitle": "APE - ATTESTATO DI PRESTAZIONE ENERGETICA",
     "items": [
       {
-        "label": "Certificato energetico",
+        "label": "APE - ATTESTATO DI PRESTAZIONE ENERGETICA",
         "enabled": true,
         "documentUrl": "/images/ape-0-1786547506200.pdf"
       }
